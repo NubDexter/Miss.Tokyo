@@ -28,9 +28,9 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 
 
-Hello    {}, My Name Is {Miss.Tokyo} !
+Hello    {}, My Name Is {} !
 
-I Am A Group Manager Bot Maintained By [Peru Master](tg://user?id={440510599}).
+I Am A Group Manager Bot Maintained By [Peru Master](https://t.me/NubDexter).
 
 I am a group management bot With Some Special Features.
 To add me to your group click the below button 👇
@@ -43,7 +43,7 @@ The support group chat is at @MissTokyoSupport.
 
 HELP_STRINGS = """
 
-Hello! my name *{Miss.Tokyo}*.
+Hello! my name *{}*.
 
 *Main* commands available:
  - /start: start the bot
