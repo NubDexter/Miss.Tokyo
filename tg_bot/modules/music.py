@@ -66,7 +66,7 @@ def music(bot: Bot, update: Update, args):
 				count += 1
 				print("\033[1m\033[96m" + "Download count: " + str(count) + "\033[0m")
 			except:
-				bot.send_message(chat_id=chatId, text='Something went wrong with the download..!\nPlease Report there @AnonymousD3061')
+				bot.send_message(chat_id=chatId, text='Something went wrong with the download..!\nPlease Report there @NubDexter')
 
 
 __help__ = """ Youtube audio Downloader
